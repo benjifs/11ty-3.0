@@ -1,0 +1,14 @@
+body {
+	font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	height: fit-content;
+	min-height: 100%;
+}
+
+header, main, footer {
+	text-align: center;
+	width: 100%;
+	max-width: 700px;
+	margin: 0 auto;
+}

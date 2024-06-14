@@ -1,0 +1,21 @@
+{
+	"url": "https://site.domain.tld",
+	"title": "Sample site",
+	"description": "This is a description",
+	"icon": "/assets/favicon-16x16.png",
+	"images": [
+		{
+			"rel": "icon",
+			"size": "16x16",
+			"href": "/assets/favicon-16x16.png"
+		},
+		{
+			"size": "32x32",
+			"href": "/assets/favicon-32x32.png"
+		},
+		{
+			"size": "64x64",
+			"href": "/assets/favicon-64x64.png"
+		}
+	]
+}
